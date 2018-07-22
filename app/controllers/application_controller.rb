@@ -32,6 +32,5 @@ class ApplicationController < Sinatra::Base
     erb :'posts/edit'
   end
 
-  end
 
 end
